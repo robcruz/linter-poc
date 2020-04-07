@@ -72,3 +72,9 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 /node_modules/
+.idea/.gitignore
+.idea/codeStyles/
+.idea/linter-poc.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
